@@ -32,4 +32,4 @@ jQuery-countdown plugin easy to use.
         </div>
 
 
-* Add Js File : 		<script src="../path/to/file/jQuery-countdown.js"></script>
+* Add Js File : 		"<script src="../path/to/file/jQuery-countdown.js"></script>"
