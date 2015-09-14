@@ -3,7 +3,7 @@ jQuery-countdown plugin easy to use.
 
 // Fire the plugin in JS file:
 
-Example :
+* Example :
 
     $('#countdown').countdown({
         
@@ -16,7 +16,7 @@ Example :
 
 // Just add a valid date and edit your html file. 
 
-Example :
+* Example :
 
         <div id='countdown'>
             <p>Il reste </p>
@@ -30,3 +30,6 @@ Example :
             <p> secondes avant la fin de l'offre</p>
             <div id='count-msg'></div>          
         </div>
+
+
+* Add Js File : 		<script src="../path/to/file/jQuery-countdown.js"></script>
