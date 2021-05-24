@@ -1,5 +1,7 @@
 # jQuery-countdown
 jQuery-countdown plugin easy to use.
+It's an old puglin I made many years ago.
+I just keep it here for the memory of what I done.
 
 // Fire the plugin in JS file:
 
